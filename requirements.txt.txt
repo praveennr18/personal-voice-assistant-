@@ -1,0 +1,8 @@
+speech_recognition
+pyttsx3
+wikipedia-api
+requests
+opencv-python
+pyautogui
+wolframalpha
+ecapture  # If this is not available on PyPI, you may need to provide installation instructions
