@@ -1,7 +1,6 @@
-# personal-voice-assistant-
-# G-One Personal Assistant
+# Personal voice Assistant
 
-Welcome to G-One, your personal AI assistant! G-One is a versatile personal assistant built using Python, capable of handling various tasks through voice commands. It integrates with multiple APIs and performs a range of functions to assist with daily activities.
+Welcome to, your personal AI assistant! is a versatile personal assistant built using Python, capable of handling various tasks through voice commands. It integrates with multiple APIs and performs a range of functions to assist with daily activities.
 
 ## Features
 
